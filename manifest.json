@@ -1,0 +1,9 @@
+{
+  "id": "pdf-html-note-export",
+  "name": "PDF & HTML Note Export",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Export notes as styled PDF or self-contained HTML5 files. Works on desktop and Android.",
+  "author": "Laurent Lefebvre",
+  "isDesktopOnly": false
+}
